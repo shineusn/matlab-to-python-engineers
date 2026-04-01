@@ -30,11 +30,6 @@ appendix/                   # MATLAB ↔ Python quick reference table
 notebooks/                  # Jupyter notebook versions
 ```
 
-## Buy the Book
-
-Available on Amazon Kindle and Paperback:
-[**Amazon link — coming soon**](https://www.amazon.com)
-
 ## License
 
 MIT License — free to use, modify, and share.
