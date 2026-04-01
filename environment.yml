@@ -1,0 +1,16 @@
+name: matlab-to-python
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - opencv
+  - scikit-image
+  - pillow
+  - jupyter
+  - jupyterlab
